@@ -1,18 +1,22 @@
 # MSFMetterPeter-BeaconSpam_Sajat_SSID-vel_automata_interaktiv
-Beacon Spam: Magyar, Saját kiválasztható SSID, automatikus monitor mód, networkmanager, Bash. Teljes egésszében én Írtam.
+Beacon Spam: Magyar, Saját kiválasztható SSID, automatikus monitor mód, networkmanager, bash.
+Nem használtam AI-t.
 Működése: mdk4-el (lásd a képeken)
 Fontos: Ne használd engedély nélkül, illegális.
-NEM VÁLLALOK FELELŐSSÉGET  csak is azért hoztam létre hogy gyakorolj, tanulj, megtréfálj valakit akitől van  engedélyed.
+NEM VÁLLALOK FELELŐSSÉGET  csak is azért hoztam létre hogy gyakorolj, tanulj.
+
+
 Folyamatok: 
--Welcome page
--Interfész Választás
--Monitor mód inditás, Networkmanager kikapcsolás
--Interfész választás
--SSID, mennyiség, erősség megadása
--MegerősÍtés (I/N)
--Beacon Spam indÍtása mdk4-el
--CTRL+C=LeállÍtás
--Monitor mód kikapcsolása, Networkmanager inditása
+
+1.W1elcome page
+2.Interfész Választás
+3.Monitor mód inditás, Networkmanager kikapcsolás
+4.Interfész választás
+5.SSID, mennyiség, erősség megadása
+6.MegerősÍtés (I/N)
+7.Beacon Spam indÍtása mdk4-el
+8.CTRL+C=LeállÍtás
+9.Monitor mód kikapcsolása, Networkmanager inditása
 
 Lásd a működését a képeken.
 <img width="487" height="490" alt="beacon1" src="https://github.com/user-attachments/assets/d178ea76-5fd1-459c-84f8-98e02cd5e5fd" />
