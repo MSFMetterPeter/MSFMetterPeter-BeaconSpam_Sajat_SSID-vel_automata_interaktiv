@@ -1,4 +1,4 @@
-# MSFMetterPeter-BeaconSpam_Sajat_SSID-vel_automata_interaktiv
+# MSFMetterPeter-BeaconSpam_Sajat_SSID-vel
 Ez a bash script mdk4 programmal működik (sudo apt install mdk4)
 Sajátosságai: Magyar nyelv, Felhasználó által megadható SSID, Automata monitor mód váltás.
 Ez és hasonló programok használata Magyarországon ILLEGÁLIS, használd saját eszközökön,zárt környezetben. 
